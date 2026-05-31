@@ -1,6 +1,6 @@
 
 #Dependencias
-import streamlit_4701_4729 as st
+import streamlit as st
 import pandas as pd
 from sklearn.metrics import precision_score
 from sklearn.model_selection import train_test_split
